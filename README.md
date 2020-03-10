@@ -4,3 +4,4 @@ https://towardsdatascience.com/using-kalman-filter-to-predict-corona-virus-sprea
 https://blog.exxactcorp.com/fighting-coronavirus-covid-19-with-data-science-crowdsourcing-3-projects-you-should-know-about/<br>
 https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19<br>
 https://towardsdatascience.com/spreading-ai-with-coronavirus-f97727fe0873<br>
+[alibaba damo acedmay](https://www.alibabacloud.com/blog/how-is-alibaba-damo-academy-helping-to-fight-the-outbreak-of-the-novel-coronavirus_595954)<br>
