@@ -6,7 +6,7 @@ https://towardsdatascience.com/spreading-ai-with-coronavirus-f97727fe0873<br>
 [deepmind: computational-predictions-of-protein-structures-associated-with-COVID-19](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19)<br>
 [alibaba damo acedmay: how-is-alibaba-damo-academy-helping-to-fight-the-outbreak-of-the-novel-coronavirus](https://www.alibabacloud.com/blog/how-is-alibaba-damo-academy-helping-to-fight-the-outbreak-of-the-novel-coronavirus_595954)<br>
 
-#Datasets:
+# Datasets:
 
 [kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)<br>
 [Johns Hopkins CSSE, github](https://github.com/CSSEGISandData/COVID-19)<br>
