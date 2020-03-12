@@ -20,3 +20,7 @@ https://www.bbc.co.uk/iplayer/episode/m000g8w5/click-can-ai-help-fight-coronavir
 # Course
 https://www.coursera.org/learn/covid-19/<br>
 
+# Companies
+https://bluedot.global/<br>
+https://benevolent.ai/<br>
+
