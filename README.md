@@ -6,6 +6,9 @@ https://towardsdatascience.com/spreading-ai-with-coronavirus-f97727fe0873<br>
 [deepmind: computational-predictions-of-protein-structures-associated-with-COVID-19](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19)<br>
 [alibaba damo acedmay: how-is-alibaba-damo-academy-helping-to-fight-the-outbreak-of-the-novel-coronavirus](https://www.alibabacloud.com/blog/how-is-alibaba-damo-academy-helping-to-fight-the-outbreak-of-the-novel-coronavirus_595954)<br>
 
+# TV Show
+https://www.bbc.co.uk/iplayer/episode/m000g8w5/click-can-ai-help-fight-coronavirus<br>
+
 # Datasets:
 
 [kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)<br>
