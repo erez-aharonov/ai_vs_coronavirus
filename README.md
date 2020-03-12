@@ -9,7 +9,7 @@ https://towardsdatascience.com/spreading-ai-with-coronavirus-f97727fe0873<br>
 # TV Show
 https://www.bbc.co.uk/iplayer/episode/m000g8w5/click-can-ai-help-fight-coronavirus<br>
 
-# Datasets:
+# Datasets
 
 [kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)<br>
 [Johns Hopkins CSSE, github](https://github.com/CSSEGISandData/COVID-19)<br>
