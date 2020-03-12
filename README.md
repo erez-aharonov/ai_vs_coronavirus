@@ -11,5 +11,9 @@ https://towardsdatascience.com/spreading-ai-with-coronavirus-f97727fe0873<br>
 [kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)<br>
 [Johns Hopkins CSSE, github](https://github.com/CSSEGISandData/COVID-19)<br>
 
-[Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov)
+# Genomics
+[Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov)<br>
+
+# Course
+https://www.coursera.org/learn/covid-19/<br>
 
