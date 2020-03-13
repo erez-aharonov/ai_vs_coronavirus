@@ -1,4 +1,6 @@
-# AI Vs. Coronavirus
+# Science Vs. Coronavirus
+
+## Articles
 https://www.mygreatlearning.com/blog/coronavirus-can-ai-be-useful-in-a-global-outbreak/<br>
 https://towardsdatascience.com/using-kalman-filter-to-predict-corona-virus-spread-72d91b74cc8<br>
 https://blog.exxactcorp.com/fighting-coronavirus-covid-19-with-data-science-crowdsourcing-3-projects-you-should-know-about/<br>
@@ -6,21 +8,20 @@ https://towardsdatascience.com/spreading-ai-with-coronavirus-f97727fe0873<br>
 [deepmind: computational-predictions-of-protein-structures-associated-with-COVID-19](https://deepmind.com/research/open-source/computational-predictions-of-protein-structures-associated-with-COVID-19)<br>
 [alibaba damo acedmay: how-is-alibaba-damo-academy-helping-to-fight-the-outbreak-of-the-novel-coronavirus](https://www.alibabacloud.com/blog/how-is-alibaba-damo-academy-helping-to-fight-the-outbreak-of-the-novel-coronavirus_595954)<br>
 
-# TV Show
+## TV Shows
 https://www.bbc.co.uk/iplayer/episode/m000g8w5/click-can-ai-help-fight-coronavirus<br>
 
-# Datasets
+## Datasets
 
 [kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)<br>
 [Johns Hopkins CSSE, github](https://github.com/CSSEGISandData/COVID-19)<br>
 
-# Genomics
+## Genomics
 [Genomic epidemiology of novel coronavirus](https://nextstrain.org/ncov)<br>
 
-# Course
+## Courses
 https://www.coursera.org/learn/covid-19/<br>
 
-# Companies
+## Companies
 https://bluedot.global/<br>
 https://benevolent.ai/<br>
-
