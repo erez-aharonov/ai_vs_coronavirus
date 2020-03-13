@@ -1,4 +1,4 @@
-# Science Vs. Coronavirus
+# Science vs. Coronavirus
 
 ## Articles
 https://www.mygreatlearning.com/blog/coronavirus-can-ai-be-useful-in-a-global-outbreak/<br>
