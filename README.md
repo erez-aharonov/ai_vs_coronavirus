@@ -27,6 +27,8 @@ https://bluedot.global/<br>
 https://benevolent.ai/<br>
 https://deargen.me/en/>br>
 https://insilico.com/<br>
+https://www.sri.com/<br>
+http://iktos.ai/<br>
 
 ## Games
 https://fold.it/portal/node/2009030<br>
