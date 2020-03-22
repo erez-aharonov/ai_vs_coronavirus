@@ -33,5 +33,8 @@ http://iktos.ai/<br>
 ## Academic groups
 https://www.jclinic.mit.edu/<br>
 
+## Accelerators
+[Bill & Melinda Gates Foundation, Wellcome, and Mastercard] (https://www.gatesfoundation.org/Media-Center/Press-Releases/2020/03/COVID-19-Therapeutics-Accelerator)<br>
+
 ## Games
 https://fold.it/portal/node/2009030<br>
