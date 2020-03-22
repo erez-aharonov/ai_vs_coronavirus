@@ -26,6 +26,7 @@ https://www.coursera.org/learn/covid-19/<br>
 https://bluedot.global/<br>
 https://benevolent.ai/<br>
 https://deargen.me/en/>br>
+https://insilico.com/<br>
 
 ## Games
 https://fold.it/portal/node/2009030<br>
