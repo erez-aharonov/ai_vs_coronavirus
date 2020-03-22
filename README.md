@@ -30,5 +30,8 @@ https://insilico.com/<br>
 https://www.sri.com/<br>
 http://iktos.ai/<br>
 
+## Academic groups
+https://www.jclinic.mit.edu/<br>
+
 ## Games
 https://fold.it/portal/node/2009030<br>
