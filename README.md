@@ -1,7 +1,7 @@
 # Science vs. Coronavirus
 ## Academic groups
 [Weizmann institute of science - fleishman lab](https://www.fleishmanlab.org)<br>
-[MIT - Regina Barzilay](https://www.jclinic.mit.edu/)<br>
+[MIT - Regina Barzilay - Jameel Clinic - The Epicenter of AI & Healthcare at MIT](https://www.jclinic.mit.edu/)<br>
 https://www.tacc.utexas.edu/<br>
 https://amarolab.ucsd.edu/<br>
 
