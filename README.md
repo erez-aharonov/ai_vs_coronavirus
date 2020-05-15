@@ -1,4 +1,10 @@
 # Science vs. Coronavirus
+## Academic groups
+[Weizmann institute of science - fleishman lab](https://www.fleishmanlab.org)<br>
+[MIT - Regina Barzilay](https://www.jclinic.mit.edu/)<br>
+https://www.tacc.utexas.edu/<br>
+https://amarolab.ucsd.edu/<br>
+
 
 ## Articles
 https://www.mygreatlearning.com/blog/coronavirus-can-ai-be-useful-in-a-global-outbreak/<br>
@@ -29,12 +35,6 @@ https://deargen.me/en/><br>
 https://insilico.com/<br>
 https://www.sri.com/<br>
 http://iktos.ai/<br>
-
-## Academic groups
-[weizmann institute of science - fleishman lab](https://www.fleishmanlab.org)<br>
-https://www.jclinic.mit.edu/<br>
-https://www.tacc.utexas.edu/<br>
-https://amarolab.ucsd.edu/<br>
 
 ## Accelerators
 [Bill & Melinda Gates Foundation, Wellcome, and Mastercard](https://www.gatesfoundation.org/Media-Center/Press-Releases/2020/03/COVID-19-Therapeutics-Accelerator)<br>
