@@ -5,6 +5,9 @@
 [University of Washington - Institute of protein design](https://www.ipd.uw.edu/)<br>
 https://amarolab.ucsd.edu/<br>
 
+## Challenges
+https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge<br>
+
 
 ## Articles
 https://www.mygreatlearning.com/blog/coronavirus-can-ai-be-useful-in-a-global-outbreak/<br>
