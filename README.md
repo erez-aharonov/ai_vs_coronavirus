@@ -5,6 +5,9 @@
 [University of Washington - Institute of protein design](https://www.ipd.uw.edu/)<br>
 https://amarolab.ucsd.edu/<br>
 
+## Vaccines
+https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/<br>
+
 ## Challenges
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge<br>
 
