@@ -7,6 +7,7 @@ https://amarolab.ucsd.edu/<br>
 
 ## Vaccines
 https://vac-lshtm.shinyapps.io/ncov_vaccine_landscape/<br>
+https://covid19vaccinetrial.co.uk/<br>
 
 ## Challenges
 https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge<br>
